@@ -1,4 +1,4 @@
-# review recorder
+# 追踪 GitHub PR review 记录
 
 使用 chrome 插件追踪 GitHub PR review 记录，并把数据存放在 Google Spreadsheet。
 
